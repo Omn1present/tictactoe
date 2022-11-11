@@ -1,0 +1,21 @@
+table,
+th,
+td {
+    border: 3px solid black;
+} 
+img{
+    height: 150px;
+} 
+table{ 
+    margin-right: auto; 
+    margin-left: auto;
+} 
+td{
+    height: 150px; 
+    width: 150px;
+} 
+
+span {
+    display: table;
+    margin: 0 auto;
+}
